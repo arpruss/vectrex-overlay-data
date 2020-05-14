@@ -1,0 +1,5 @@
+vecx_res_multi = "3"
+vecx_scale_x = "0.98"
+vecx_scale_y = "0.97"
+vecx_shift_x = "0"
+vecx_shift_y = "-0.02"
